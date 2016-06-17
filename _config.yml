@@ -10,7 +10,7 @@ title: Try project euler
 email: mptyomo＠gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Chomo try log.
-baseurl: "http://mogi.github.io/project_euler/site" # the subpath of your site, e.g. /blog
+baseurl: "http://mogi.github.io/project_euler" # the subpath of your site, e.g. /blog
 url: "http://mogi.github.io/project_euler" # the base hostname & protocol for your site
 twitter_username: canaria_bot
 github_username:  chomo
