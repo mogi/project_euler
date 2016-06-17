@@ -17,3 +17,10 @@ github_username:  chomo
 
 # Build settings
 markdown: kramdown
+
+gems:
+    - jemoji
+    - jekyll-mentions
+    - jekyll-redirect-from
+    - jekyll-sitemap
+    - jekyll-feed
