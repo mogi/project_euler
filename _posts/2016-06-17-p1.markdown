@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Try problem1"
+date:   2016-06-17 21:09:24 +0900
+categories: project_euler
+---
+I tried problem1.
+<script src="http://gist-it.appspot.com/github/mogi/project_euler/blob/gh-pages/problem/problem1.py"></script>
