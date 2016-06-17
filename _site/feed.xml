@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Try project euler</title>
+    <description>Chomo try log.
+</description>
+    <link>http://mogi.github.io/project_euler/</link>
+    <atom:link href="http://mogi.github.io/project_euler/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 18 Jun 2016 01:20:36 +0900</pubDate>
+    <lastBuildDate>Sat, 18 Jun 2016 01:20:36 +0900</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Try problem1</title>
+        <description>&lt;p&gt;I tried problem1.
+&lt;script src=&quot;http://gist-it.appspot.com/github/mogi/project_euler/blob/gh-pages/problem1.py&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 17 Jun 2016 21:09:24 +0900</pubDate>
+        <link>http://mogi.github.io/project_euler/project_euler/2016/06/17/p1.html</link>
+        <guid isPermaLink="true">http://mogi.github.io/project_euler/project_euler/2016/06/17/p1.html</guid>
+        
+        
+        <category>project_euler</category>
+        
+      </item>
+    
+  </channel>
+</rss>
